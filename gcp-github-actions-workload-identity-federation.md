@@ -1,8 +1,6 @@
 # GCP GitHub Actions Workload Identity Federation
 
-**Document status:** Compliance portal draft  
-**Original filenames:** `GCPWIF.md` and `README.md`  
-**Filename rationale:** Consolidates the duplicate GCP WIF guides under one precise filename that identifies federation, GitHub Actions, and GCP compliance scope.
+
 
 ## Purpose & Scope
 
