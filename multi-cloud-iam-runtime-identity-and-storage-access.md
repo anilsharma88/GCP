@@ -1,8 +1,6 @@
 # Multi-Cloud IAM Runtime Identity and Storage Access
 
-**Document status:** Compliance portal draft  
-**Original filename:** `iam-role-olicy.md`  
-**Filename rationale:** The original name contains an apparent spelling error, does not describe the technology and control domain, and uses an ambiguous acronym. The standardized name identifies the scope as multi-cloud IAM runtime identity and storage access.
+
 
 ## Purpose & Scope
 
