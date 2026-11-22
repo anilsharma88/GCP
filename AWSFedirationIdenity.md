@@ -1,9 +1,6 @@
-from pathlib import Path
+# Federated Workload Identity and GitHub Actions: AWS, Azure, and GCP
 
-path = Path("/mnt/data/README.md")
-content = r"""# Federated Workload Identity and GitHub Actions: AWS, Azure, and GCP
-
-This guide compares cloud-native Workload Identity Federation (WIF) and shows how GitHub Actions can provision infrastructure and deploy a containerized application to one Kubernetes namespace in dev, test, and prod.
+##This guide compares cloud-native Workload Identity Federation (WIF) and shows how GitHub Actions can provision infrastructure and deploy a containerized application to one Kubernetes namespace in dev, test, and prod.
 
 Cloud targets:
 - AWS: Amazon EKS
