@@ -1,8 +1,6 @@
 # Multi-Cloud Kubernetes Pod Runtime Identity
 
-**Document status:** Compliance portal draft  
-**Original filename:** `podruntimeidenity.md`  
-**Filename rationale:** Corrected the misspelling and expanded the title to state the platform scope and Kubernetes runtime identity domain.
+
 
 ## Purpose & Scope
 
