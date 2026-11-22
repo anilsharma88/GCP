@@ -1,8 +1,6 @@
 # Azure GitHub Actions Workload Identity Federation
 
-**Document status:** Compliance portal draft  
-**Original filename:** `Azureintrai.md`  
-**Filename rationale:** Corrected the misspelling and replaced an ambiguous title with the Azure identity mechanism and CI/CD platform.
+
 
 ## Purpose & Scope
 
